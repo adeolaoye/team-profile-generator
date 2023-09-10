@@ -38,3 +38,5 @@ To use the Team Profile Generator:
 - [Screenshot]![team-profile-generator-screenshot](https://github.com/adeolaoye/team-profile-generator/assets/137003763/0f250bb3-3d14-4490-a92c-cd615cbca9ce)
 
 - [Github Repo](https://github.com/adeolaoye/team-profile-generator/)
+
+- [Generated HTML link](https://github.com/adeolaoye/team-profile-generator/blob/main/output/team.html/)
